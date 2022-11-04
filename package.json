@@ -10,7 +10,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@appyhigh/react-use-speedtest-hook": "../react-use-speedtest-hook",
     "axios": "1.1.3",
     "convert": "^4.7.0",
     "nanoid": "^4.0.0",
